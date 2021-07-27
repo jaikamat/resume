@@ -12,7 +12,9 @@
 
 ## Experience
 
-**EnergyRM** _Frontend Developer_ | _July 2020 - Current_ | _Portland, OR_ | _[energyrm.com](https://energyrm.com/)_
+**EnergyRM**
+
+Frontend Developer | _July 2020 - Current_ | _Portland, OR_ | [energyrm.com](https://energyrm.com/)
 
 - Delivered features for a building remote-analysis platform that allows building owners and project investors to prospect on energy efficiency opportunities and better target retrofits in energy-inefficient buildings at scale
 - Acted as the owner of the frontend codebase, establishing new UX paradigms such as Skeleton loading, query batching, organizing TS types and code generation, generalizing commonly-used components, as well improving directory and component naming conventions
@@ -25,7 +27,9 @@
 - Focused on controlled, two to three week Agile sprints
 - Onboarded new customers, created onboarding training videos and documentation to retain users post-onboarding
 
-**Retro Game Trader** _Full Stack Developer_ | _September 2019 - Current_ | _Portland, OR_
+**Retro Game Trader**
+
+Full Stack Developer | _September 2019 - Current_ | _Portland, OR_
 
 - Created a custom inventory management solution built with React, MongoDB, Google Cloud Functions, and Node/Express to track and sell a vast assortment of collectible merchandise across two physical store locations, transacting over $345,000 to date
 - Designed a cohesive UI/UX for both customers as well as common employee workflows, using Semantic UI and Material UI
@@ -39,7 +43,9 @@
 - Reduced dependency on multiple externally-viewed pricing sources used during transactions by directly integrating them in the client
 - Allowed users to create, suspend, track, and report on sales and received items
 
-**Summerjulep** _Content Director_ | _April 2017 - Current_ | _[instagram.com/summerjulep](instagram.com/summerjulep)_
+**Summerjulep**
+
+Content Director | _April 2017 - Current_ | [instagram.com/summerjulep](instagram.com/summerjulep)
 
 - Partner with head athlete and owner to regularly roll out daily social media content intended to inspire and motivate swimmers of all ages
 - Refine posting copy and maintain a consistent on-brand voice
@@ -47,14 +53,18 @@
 - Grew to 30,000+ organic followers in less than one year (approx. 75,000 to date)
 - Secured two ongoing brand partnerships (Arena, MySwimPro) and several brand collaborations valued at over $10,000 yearly
 
-**Jai Kamat Illustration** _Owner_ | _February 2017 - November 2018_ | _[jaikamat.com](www.jaikamat.com)_
+**Jai Kamat Illustration**
+
+Owner | _February 2017 - November 2018_ | [jaikamat.com](www.jaikamat.com)
 
 - Designed and illustrated pop-culture themed artwork with mass appeal
 - Partnered with clients such as Ninja, Society of Illustrators, Light Grey Art Lab, Kotaku, and Capitol Records
 - Developed branding and personal identity for a freelance illustration studio
 - Designed trade show displays and coordinated nationwide convention scheduling
 
-**New York Shipping Exchange** _Full Stack Developer_ | _April 2016 - January 2017_ | _New York, NY_ | _[nyshex.com](nyshex.com/en/)_
+**New York Shipping Exchange**
+
+Full Stack Developer | _April 2016 - January 2017_ | _New York, NY_ | [nyshex.com](nyshex.com/en/)
 
 - Implemented domain logic, along with frontend and backend routing for a financial contracting system valued at $1.5 billion
 - Rapidly prototyped new features by translating business requirements using AngularJS, MySQL, DC.JS and D3, with integration testing in Selenium Webdriver
