@@ -4,8 +4,6 @@
 
 ## Skills
 
----
-
 **Proficient:** JavaScript, TypeScript, Node, MongoDB, Express, Apollo, GraphQL, React, Material UI, Formik, HTML, CSS, Git, Photoshop
 
 **Working Knowledge:** VisX, React Hook Form, Python, Java 8, SQL, Bootstrap/Semantic UI, Jest, Mocha, Chai
@@ -13,8 +11,6 @@
 **Learning:** Raytracing, Rasterizing, Google Cloud Platform
 
 ## Experience
-
----
 
 **EnergyRM** _Frontend Developer_ | _July 2020 - Current_ | _Portland, OR_ | _[energyrm.com](https://energyrm.com/)_
 
@@ -68,8 +64,6 @@
 - Met directly with product users, customers, and internal stakeholders to evaluate needs prior to evaluating new feature requests
 
 ## Education
-
----
 
 - **Fullstack Academy of Code** | MEAN-stack immersive | _Jan 2016—April 2016_
 - **School of Visual Arts** | MFA Illustration as Visual Essay | _2012—May 2014_
