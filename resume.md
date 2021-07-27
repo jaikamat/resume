@@ -22,7 +22,7 @@ Frontend Developer | _July 2020 - Current_ | _Portland, OR_ | [energyrm.com](htt
 - Collaborated with our CFO to release Financial Modeling for capital budgeting, developed using React Hook Form and VisX, which allowed users to simulate project returns given energy requirements gleaned from building walkthroughs and audits
 - Developed and implemented Prospecting via a performant, virtualized table and large filter selection to allow customers to browse from among thousands of disparate buildings to deploy capital in meaningful ways
 - Wireframed and released DeltaMeter, a keystone EnergyRM product and transactable, investment-grade meter which formed the backbone of planned revenue generation
-- Acted as lead designer to gather feature requirements, synthesize stakeholder vision, wireframe, and iterate on user experience
+- Acted as lead designer to gather feature requirements, synthesize stakeholder vision, wireframe, and iterate on user experience, all while maintaining a clear and cohesive brand voice
 - Maintained current features while eliminating technical debt
 - Focused on controlled, two to three week Agile sprints
 - Onboarded new customers, created onboarding training videos and documentation to retain users post-onboarding
