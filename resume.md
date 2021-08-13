@@ -2,6 +2,10 @@
 
 **Email:** [jaipkamat@gmail.com](mailto:jaipkamat@gmail.com) | **Github:** [github.com/jaikamat](github.com/jaikamat) | **Beaverton, OR**
 
+## About me
+
+I value my work through its positive impact on others. Making smiles happen is my top priority! I prefer to work frontend, with autonomy regarding implementation. I can wireframe solutions myself, and value the discerning eye of an opinionated product manager.
+
 ## Skills
 
 **Proficient:** JavaScript, TypeScript, Node, MongoDB, Express, Apollo, GraphQL, React, Material UI, Formik, HTML, CSS, Git, Photoshop
