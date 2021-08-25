@@ -1,0 +1,5 @@
+# Always ignore this, pesky
+.DS_Store
+
+# Ignore exports
+resume.pdf
