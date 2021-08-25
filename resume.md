@@ -21,7 +21,7 @@ I value my work through its positive impact on others. Making smiles happen is m
 Frontend Developer | _July 2020 - Current_ | _Portland, OR_ | [energyrm.com](https://energyrm.com/)
 
 - Delivered features for a remote-analysis platform that allows building owners and project investors to prospect on energy efficiency opportunities and better target retrofits in energy-inefficient buildings at scale
-- Used Apollo Client, React, React Hook Form, Material UI, and VisX/Recharts to develop and rapidly prototype new features while wireframing and generating application assets via Balsamiq and Adobe Suite
+- Used Apollo Client, React, Formik, React Hook Form, Material UI, and VisX/Recharts to develop and rapidly prototype new features while wireframing and generating application assets via Balsamiq and Adobe Suite
 - Acted as the owner of the frontend codebase, establishing new UX paradigms such as Skeleton loading, query batching, organizing TS types and code generation, generalizing commonly-used components, as well improving directory and component naming conventions
 - Released and iterated on Insights, a critical reporting feature that gives building owners and portfolio managers more visibility over their asset energy usage patterns
 - Collaborated with our CFO to release Financial Modeling for capital budgeting, which allowed users to simulate project returns given energy requirements gleaned from building walkthroughs and audits
@@ -35,7 +35,7 @@ Frontend Developer | _July 2020 - Current_ | _Portland, OR_ | [energyrm.com](htt
 Full Stack Developer | _September 2019 - Current_ | _Portland, OR_
 
 - Created a custom inventory management solution built with React, MongoDB, Google Cloud Functions, and Node/Express to track and sell a vast assortment of collectible merchandise across two physical store locations, transacting over $345,000 to date
-- Designed a cohesive UI/UX for both customers as well as common employee workflows, using Semantic UI and Material UI
+- Designed a cohesive UI/UX for both customers as well as common employee workflows, using Formik for form state management, and Semantic UI and Material UI for presentation
 - Integrated with LightSpeed's point-of-sale API for sales-creation between the inventory system of record and the pre-existing sales system
 - Wrote Node.js scripts to sanitize and validate a large custom data migration (more than 25,000 records) from an external inventory system to MongoDB Atlas
 - Secured admin authentication by using stateless JWT's against protected resources, while exposing limited inventory views to customers
