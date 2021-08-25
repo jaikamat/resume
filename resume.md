@@ -1,6 +1,8 @@
+<link rel="stylesheet" href="./resume.css"/>
+
 # Jai Kamat
 
-**Email:** [jaipkamat@gmail.com](mailto:jaipkamat@gmail.com) | **Github:** [github.com/jaikamat](github.com/jaikamat) | **Beaverton, OR**
+**Email:** [jaipkamat@gmail.com](mailto:jaipkamat@gmail.com) | **Github:** [github.com/jaikamat](github.com/jaikamat) | **Phone:** (585) 613-5857
 
 ## About me
 
@@ -16,7 +18,7 @@ I value my work through its positive impact on others. Making smiles happen is m
 
 ## Experience
 
-**EnergyRM**
+### EnergyRM
 
 Frontend Developer | _July 2020 - Current_ | _Portland, OR_ | [energyrm.com](https://energyrm.com/)
 
@@ -30,7 +32,7 @@ Frontend Developer | _July 2020 - Current_ | _Portland, OR_ | [energyrm.com](htt
 - Acted as lead designer to gather feature requirements, synthesize stakeholder vision, wireframe, and iterate on user experience, all while maintaining a clear and cohesive brand voice
 - Onboarded new customers, created onboarding training videos and documentation to retain users post-onboarding
 
-**Retro Game Trader**
+### Retro Game Trader
 
 Full Stack Developer | _September 2019 - Current_ | _Portland, OR_
 
@@ -46,7 +48,7 @@ Full Stack Developer | _September 2019 - Current_ | _Portland, OR_
 - Reduced dependency on multiple externally-viewed pricing sources used during transactions by directly integrating them in the client
 - Allowed users to create, suspend, track, and report on sales and received items
 
-**Summerjulep**
+### Summerjulep
 
 Content Director | _April 2017 - Current_ | [instagram.com/summerjulep](instagram.com/summerjulep)
 
@@ -56,7 +58,7 @@ Content Director | _April 2017 - Current_ | [instagram.com/summerjulep](instagra
 - Grew to 30,000+ organic followers in less than one year (approx. 75,000 to date)
 - Secured two ongoing brand partnerships (Arena, MySwimPro) and several brand collaborations valued at over $10,000 yearly
 
-**Jai Kamat Illustration**
+### Jai Kamat Illustration
 
 Owner | _February 2017 - November 2018_ | [jaikamat.com](www.jaikamat.com)
 
@@ -65,7 +67,7 @@ Owner | _February 2017 - November 2018_ | [jaikamat.com](www.jaikamat.com)
 - Developed branding and personal identity for a freelance illustration studio
 - Designed trade show displays and coordinated nationwide convention scheduling
 
-**New York Shipping Exchange**
+### New York Shipping Exchange
 
 Full Stack Developer | _April 2016 - January 2017_ | _New York, NY_ | [nyshex.com](nyshex.com/en/)
 
@@ -81,7 +83,3 @@ Full Stack Developer | _April 2016 - January 2017_ | _New York, NY_ | [nyshex.co
 - **Fullstack Academy of Code** | MEAN-stack immersive | _Jan 2016—April 2016_
 - **School of Visual Arts** | MFA Illustration as Visual Essay | _2012—May 2014_
 - **Rochester Institute of Technology** | BFA Illustration | _2010—May 2012_
-
----
-
-**Email:** jaipkamat@gmail.com | **Phone:** 585.613.5857
