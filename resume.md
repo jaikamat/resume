@@ -18,9 +18,22 @@ I value my work through its positive impact on others. Making smiles happen is m
 
 ## Experience
 
+### Commercetools
+
+Frontend Developer - Discounts Team | _November 2021 - Current_ | _Remote_ | [commercetools.com](https://commercetools.com/)
+
+- Worked on features for the Merchant Center, an administrative web application powered by the Commercetools platform API while using development tooling such as React, Apollo GraphQL, Formik, and open-source view frameworks
+- Implemented Discounts Search, a feature which allows users to filter on promotions within the Merchant Center, delivering immediate value and greatly simplifying customer workflows
+- Initiated, led, and finished an effort to convert legacy query architecture to modern React hook syntax, centered around eliminating the use of deprecated components
+- Extended and improved shared components used cross-team, while also creating modular and testable components for Discounts-centric use
+- Collaborated closely with the team Product Manager and UI/UX Designer to ensure a user-empathetic and aesthetic perspective on features, with a focus on improved usability
+- Participated as the sole Discounts team ambassador in monthly meetings and retrospectives of the Frontend Chapter, a cross-team committee of engineers who champion prioritizing the development organization's infrastructural goals
+- Mentored frontend team members on topics such as debugging, React component patterns, component generalization and extraction, GitHub PR strategies, and maintaining codebase standards
+- Helped ideate and document detailed requirements for features, while collaborating with stakeholders from disparate domains as well as other developers both within and external to the Discounts team
+
 ### EnergyRM
 
-Frontend Developer | _July 2020 - Current_ | _Portland, OR_ | [energyrm.com](https://energyrm.com/)
+Frontend Developer | _July 2020 - July 2021_ | _Portland, OR_ | [energyrm.com](https://energyrm.com/)
 
 - Delivered features for a remote-analysis platform that allows building owners and project investors to prospect on energy efficiency opportunities and better target retrofits in energy-inefficient buildings at scale
 - Used Apollo Client, React, Formik, React Hook Form, Material UI, and VisX/Recharts to develop and rapidly prototype new features while wireframing and generating application assets via Balsamiq and Adobe Suite
