@@ -10,26 +10,51 @@ I value my work through its positive impact on others. Making smiles happen is m
 
 ## Skills
 
-**Proficient:** JavaScript, TypeScript, Node, MongoDB, Express, Apollo, GraphQL, React, Material UI, Formik, HTML, CSS, Git, Photoshop
+**Proficient:** JavaScript, TypeScript, React (Hooks, Context, Suspense), Node.js, GraphQL, HTML, CSS, Git, Design Systems, Chakra UI, React Aria, Vitest, Storybook, Cypress, Apollo Client, Formik, Material UI, Express, MongoDB, pnpm, Vite, Design Tokens, WCAG Accessibility, Photoshop
 
-**Working Knowledge:** VisX, React Hook Form, Python, Java 8, SQL, Bootstrap/Semantic UI, Jest, Mocha, Chai
+**Working Knowledge:** React Hook Form, Webpack, Emotion, styled-components, Playwright, Percy, VisX, Python, Java 8, SQL, Bootstrap/Semantic UI, Jest, Mocha, Chai
 
-**Learning:** Raytracing, Rasterizing, Google Cloud Platform
+**Learning:** Advanced React Aria Patterns, Design System Architecture, Monorepo Optimization
 
 ## Experience
 
 ### Commercetools
 
-Frontend Developer - Discounts Team | _November 2021 - Current_ | _Remote_ | [commercetools.com](https://commercetools.com/)
+Senior Software Engineer | _November 2021 - Current_ | _Remote_ | [commercetools.com](https://commercetools.com/)
 
-- Worked on features for the Merchant Center, an administrative web application powered by the Commercetools platform API while using development tooling such as React, Apollo GraphQL, Formik, and open-source view frameworks
-- Implemented Discounts Search, a feature which allows users to filter on promotions within the Merchant Center, delivering immediate value and greatly simplifying customer workflows
-- Initiated, led, and finished an effort to convert legacy query architecture to modern React hook syntax, centered around eliminating the use of deprecated components
-- Extended and improved shared components used cross-team, while also creating modular and testable components for Discounts-centric use
-- Collaborated closely with the team Product Manager and UI/UX Designer to ensure a user-empathetic and aesthetic perspective on features, with a focus on improved usability
-- Participated as the sole Discounts team ambassador in monthly meetings and retrospectives of the Frontend Chapter, a cross-team committee of engineers who champion prioritizing the development organization's infrastructural goals
-- Mentored frontend team members on topics such as debugging, React component patterns, component generalization and extraction, GitHub PR strategies, and maintaining codebase standards
-- Helped ideate and document detailed requirements for features, while collaborating with stakeholders from disparate domains as well as other developers both within and external to the Discounts team
+#### First Contact/CRAFT Team | _October 2022 - Current_
+
+**Design System Architecture & Development**
+
+- **Led development of Nimbus design system** (322 commits in 8 months), commercetools' next-generation UI component library built with Chakra UI v3, React Aria Components, and design tokens, establishing platform-wide accessibility and consistency standards
+- **Architected accessible components** with WCAG 2.1 AA compliance using React Aria for keyboard navigation, focus management, and screen reader support across 15+ components including DataTable, Card, Menu, Select, and form controls
+- **Migrated 2+ production applications** from legacy UI kit to Nimbus (Account, Settings), establishing migration patterns, integration guides, and comprehensive documentation for organization-wide adoption
+- **Built testing infrastructure** using Vitest and Storybook interaction tests with Playwright, creating play functions for component validation and establishing testing patterns for the design system
+- **Designed token-based theming system** enabling consistent styling, responsive design, and dark mode support across all applications via centralized design tokens
+- **Created component architecture guidelines** documenting compound components, slot patterns, recipe-based variants, and accessibility requirements (CLAUDE.md system) for team adoption and consistency
+
+**Feature Development & Infrastructure**
+
+- **Delivered B2B sample data import feature** enabling merchants to bootstrap their projects with realistic sample data, streamlining onboarding and reducing time-to-value
+- **Implemented Identity Management UI** (208 commits) including signup flows, form validation with Formik, responsive gradient layouts, and navbar context system, migrating from styled-components to Emotion for improved performance
+- **Integrated UserGuiding** for user onboarding across all Merchant Center applications with environment-based feature flagging and user identification, improving feature discovery and user retention
+- **Migrated backend services from JavaScript/Flow to TypeScript** (655 commits), establishing type-safe APIs, Express.js type integration, and standardized error handling patterns, reducing runtime errors and improving maintainability
+- **Built comprehensive test data factory system** (458 commits) creating 20+ reusable test models for commercetools APIs including Product/Cart Discounts, Money types, and related entities, enabling consistent test generation organization-wide
+
+**Technical Leadership**
+
+- **Established developer experience improvements** through component generation workflows, GraphQL type generation systems, and comprehensive documentation including architecture decision records
+- **Participated as Frontend Chapter ambassador** in monthly meetings and retrospectives, championing infrastructure goals and best practices across multiple engineering teams
+- **Mentored frontend team members** on React patterns, TypeScript best practices, accessibility standards, component extraction strategies, and code review processes
+
+#### Discounts Team | _November 2021 - October 2022_
+
+- **Developed Product Discounts feature** with complete routing architecture, modal-based UI, state management using React hooks and context, and audit log integration for change history tracking, enabling efficient discount management for merchants
+- **Implemented Discounts Search functionality** allowing users to filter promotions within the Merchant Center, delivering immediate value and greatly simplifying customer workflows
+- **Led component modernization initiative** refactoring legacy class components to functional components with hooks, eliminating deprecated patterns and improving code maintainability across the codebase
+- **Improved dashboard analytics** by enhancing chart responsiveness and dimension calculations, providing merchants with better visibility into their discount performance
+- **Architected API error handling improvements** migrating to standardized error.extensions.code pattern, extending notification system for discounts module
+- **Collaborated closely with Product Manager and UI/UX Designer** to ensure user-empathetic and aesthetic perspective on discount features, with focus on improved usability
 
 ### EnergyRM
 
